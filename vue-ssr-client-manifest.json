@@ -1,24 +1,24 @@
 {
-  "publicPath": "/_nuxt/",
+  "publicPath": "/deafheaven.github.io/_nuxt/",
   "all": [
     "pages\\index.f417ed14e966a7fb1814.js.map",
     "pages\\index.f417ed14e966a7fb1814.js",
     "common.ed12918a01dae670aadf.js",
-    "app.b5646480afe1e0b16de2.js",
-    "manifest.49e4bbc57ebb3b6e48ec.js",
+    "app.39befb442977ac15e255.js",
+    "manifest.2fe26031b45b62f02b63.js",
     "LICENSES",
     "layouts\\default.035aab8b5c2a2c39db1a.js",
     "layouts\\default.035aab8b5c2a2c39db1a.js.map",
     "common.ed12918a01dae670aadf.js.map",
-    "app.b5646480afe1e0b16de2.js.map",
-    "manifest.49e4bbc57ebb3b6e48ec.js.map",
+    "app.39befb442977ac15e255.js.map",
+    "manifest.2fe26031b45b62f02b63.js.map",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.49e4bbc57ebb3b6e48ec.js",
+    "manifest.2fe26031b45b62f02b63.js",
     "common.ed12918a01dae670aadf.js",
-    "app.b5646480afe1e0b16de2.js"
+    "app.39befb442977ac15e255.js"
   ],
   "async": [
     "pages\\index.f417ed14e966a7fb1814.js",
